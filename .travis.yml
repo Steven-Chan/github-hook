@@ -1,6 +1,6 @@
 language: minimal
 script:
-  - echo "This is master haha"
+  - echo "This is master diu"
   - echo "This is master haha"
   - echo "This is master haha"
   - echo "This is master haha"
