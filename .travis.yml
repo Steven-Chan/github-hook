@@ -11,3 +11,8 @@ script:
   - echo "This is master haha"
   - echo "This is master haha"
   - echo "This is master haha"
+  - echo "This is pr"
+  - echo "This is pr"
+  - echo "This is pr"
+  - echo "This is pr"
+  - echo "This is pr"
