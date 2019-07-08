@@ -16,3 +16,4 @@ script:
   - echo "This is pr"
   - echo "This is pr"
   - echo "This is pr"
+  - echo "This is pr, testing gitlab"
