@@ -15,5 +15,5 @@ script:
   - echo "This is pr"
   - echo "This is pr"
   - echo "This is pr"
-  - echo "This is pr"
+  - echo "This is pr, update1"
   - echo "This is pr, testing gitlab"
