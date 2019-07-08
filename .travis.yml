@@ -13,7 +13,7 @@ script:
   - echo "This is master haha"
   - echo "This is pr"
   - echo "This is pr"
-  - echo "This is pr"
+  - echo "This is pr, update3"
   - echo "This is pr, update2"
   - echo "This is pr, update1"
   - echo "This is pr, testing gitlab"
